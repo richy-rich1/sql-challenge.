@@ -1,1 +1,2 @@
 # sql-challenge.
+I designed a database with tables for employees, departments, manager assignments, and job titles. I imported the CSV data, ensuring quality. The analysis included: calculating total employees and average hire year, identifying common last names, listing department sizes and managers, finding departments with 80s/90s transfers, and highlighting the department with most 80s hires. I created views and procedures for easy access to insights, exploring visualization options. Let me know if you need clarification or have additional requirements.
